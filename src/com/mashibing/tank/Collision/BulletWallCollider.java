@@ -19,6 +19,9 @@ public class BulletWallCollider  implements Collider{
             return collide(o2, o1);
 
         return true;
+
+
+
     }
 
 
